@@ -1,7 +1,8 @@
 //FLAPPY BIRD GAME
 //Game File
 /*
-The game logic is to control the bird by flying upwards or falling down with gravity and navigating through pipes to achieve high scores by surviving the distance
+The game logic is to control the bird by flying upwards or falling down with gravity 
+and navigating through pipes to achieve high scores by surviving the distance
 */
 
 
